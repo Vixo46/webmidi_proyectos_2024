@@ -1,4 +1,4 @@
-# webmidi_proyectos_2024
+# webmidi_issues_2024
 Proyectos realizados por Vicente B. León. con webmidi.js y herramientas de programación.
 
 **Prueba midi v0:**
